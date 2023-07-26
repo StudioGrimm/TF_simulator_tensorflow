@@ -11,8 +11,8 @@ import numpy as np
 # tensorflow modules
 import tensorflow as tf
 import tensorflow_text as tf_text
-from tensorflow.keras import layers
-from tensorflow.keras.utils import plot_model
+from tensorflow.python.keras import layers
+from tensorflow.python.keras.utils import plot_model
 
 # necessary for visualization and user input
 import matplotlib.pyplot as plt
